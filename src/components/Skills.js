@@ -96,7 +96,7 @@ const Skills = () => {
                 {category.skills.map((skill, skillIndex) => (
                   <motion.div 
                     key={skillIndex} 
-                    className="group relative"
+                    className="group relative flex flex-col items-center"
                     initial={{ opacity: 0, scale: 0.8 }}
                     whileInView={{ opacity: 1, scale: 1 }}
                     viewport={{ once: true }}
@@ -125,7 +125,7 @@ const Skills = () => {
                         }}
                       />
                       
-                      <div className="relative h-16 w-16 flex items-center justify-center rounded-xl bg-gradient-to-br from-card to-muted/50 border border-border/50 group-hover:border-primary/50 transition-all duration-300 group-hover:shadow-lg">
+                      <div className="relative h-16 w-16 mx-auto flex items-center justify-center rounded-xl bg-gradient-to-br from-card to-muted/50 border border-border/50 group-hover:border-primary/50 transition-all duration-300 group-hover:shadow-lg">
                         <motion.img 
                           src={skill.icon} 
                           alt={skill.name} 
