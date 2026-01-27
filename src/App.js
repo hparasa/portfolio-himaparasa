@@ -34,7 +34,7 @@ function App() {
             "name": "Hima Varshini Parasa",
             "sameAs": [
               "https://github.com/hparasa",
-              "https://www.linkedin.com/in/hima-v-parasa/",
+              "https://www.linkedin.com/in/hparasa/",
               "https://leetcode.com/u/hparasa/"
             ],
             "jobTitle": "Software Engineer",

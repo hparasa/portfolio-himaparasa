@@ -26,7 +26,7 @@ const Footer = () => {
             <h3 className="text-lg font-semibold">Connect</h3>
             <ul className="mt-3 flex items-center gap-4">
               <li>
-                <a className="hover:text-primary transition-colors" href="https://www.linkedin.com/in/hima-v-parasa/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
+                <a className="hover:text-primary transition-colors" href="https://www.linkedin.com/in/hparasa/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
                   <FaLinkedin size={20} />
                 </a>
               </li>

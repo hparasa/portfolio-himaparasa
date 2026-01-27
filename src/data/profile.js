@@ -11,7 +11,7 @@
     image: himaparasa,
     social: {
       email: "himaparasa19@gmail.com",
-      linkedin: "https://www.linkedin.com/in/hima-v-parasa/",
+      linkedin: "https://www.linkedin.com/in/hparasa/",
       github: "https://github.com/hparasa",
       leetcode: "https://leetcode.com/u/hparasa/"
     },
