@@ -93,8 +93,8 @@ const Contact = () => {
               </div>
               <div className="flex items-center gap-3">
                 <FaGithub className="text-primary" />
-                <a href="https://github.com/himap2569" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
-                  github.com/himap2569
+                <a href="https://github.com/hparasa" target="_blank" rel="noopener noreferrer" className="hover:text-primary transition-colors">
+                  github.com/hparasa
                 </a>
               </div>
             </div>

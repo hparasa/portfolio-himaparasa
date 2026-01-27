@@ -31,7 +31,7 @@ const Footer = () => {
                 </a>
               </li>
               <li>
-                <a className="hover:text-primary transition-colors" href="https://github.com/himap2569" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
+                <a className="hover:text-primary transition-colors" href="https://github.com/hparasa" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
                   <FaGithub size={20} />
                 </a>
               </li>

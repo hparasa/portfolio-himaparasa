@@ -8,7 +8,7 @@ export const projects = [
       "Optimized query paths and model inference to achieve measurable latency and space efficiency tradeoffs in read-heavy workloads."
     ],
     links: {
-      code: 'https://github.com/himap2569/caseForLearnedIndex',
+      code: 'https://github.com/hparasa/caseForLearnedIndex',
       demo: null,
     },
     tags: [' Python', 'NumPy', 'Database Internals', 'Systems Benchmarking'],
@@ -22,7 +22,7 @@ export const projects = [
       "Engineered reusable training and inference workflows, emphasizing repeatability, scalability, and model comparison rather than single-model optimization."
     ],
     links: {
-      code: 'https://github.com/himap2569/llm-ensemble-for-neologism',
+      code: 'https://github.com/hparasa/llm-ensemble-for-neologism',
       demo: 'https://huggingface.co/Himaparasa/bertweet-sentiment-model',
     },
     tags: ['PyTorch', 'Hugging Face Transformers', 'LoRA/AdaLoRA', 'Python', 'NumPy'],
@@ -36,7 +36,7 @@ export const projects = [
 	    "Achieved 99.99% availability with sub-10ms read/write latency through replication, fault handling, and efficient request routing across multiple servers."
     ],
     links: {
-      code: 'https://github.com/himap2569/'
+      code: 'https://github.com/hparasa/'
     },
     tags: ['Python/C++', 'gRPC', 'Distributed Systems', 'Consistency Models'],
   },

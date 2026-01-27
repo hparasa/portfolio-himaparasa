@@ -12,7 +12,7 @@
     social: {
       email: "himaparasa19@gmail.com",
       linkedin: "https://www.linkedin.com/in/hima-v-parasa/",
-      github: "https://github.com/himap2569",
+      github: "https://github.com/hparasa",
       leetcode: "https://leetcode.com/u/SQD6ceszRU/"
     },
   };
