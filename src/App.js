@@ -33,9 +33,9 @@ function App() {
             "@type": "Person",
             "name": "Hima Varshini Parasa",
             "sameAs": [
-              "https://github.com/himap2569",
+              "https://github.com/hparasa",
               "https://www.linkedin.com/in/hima-v-parasa/",
-              "https://leetcode.com/u/SQD6ceszRU/"
+              "https://leetcode.com/u/hparasa/"
             ],
             "jobTitle": "Software Engineer",
             "description": "Portfolio website of Hima Varshini Parasa, Software Engineer. Projects, skills, experience, and contact information."

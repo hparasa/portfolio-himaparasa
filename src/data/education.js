@@ -9,7 +9,7 @@ export const education = [
     degree: 'Bachelor of Technology in Computer Science and Engineering',
     institution: 'VR Siddhartha Engineering College - Vijayawada, India',
     period: 'July 2017 - April 2021',
-    extra: 'CGPA: 8.56/10.0 (Passed with distinction)',
+    extra: 'CGPA: 8.56/10.0',
   }
 ];
 
