@@ -2,7 +2,7 @@
   "name": "aditya-portfolio",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://himap2569.github.io/portfolio-himaparasa/",
+  "homepage": "https://hparasa.github.io",
   "main": "index.js",
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.11",
