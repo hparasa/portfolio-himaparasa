@@ -240,7 +240,31 @@ const Projects = () => {
               </div>
             </motion.div>
           ))}
+          <motion.div
+          className="mt-12 flex justify-center"
+          initial={{ opacity: 0, y: 20 }}
+          whileInView={{ opacity: 1, y: 0 }}
+          viewport={{ once: true }}
+          transition={{ duration: 0.5 }}
+        >
+          <motion.a
+            href="https://github.com/hparasa"  
+            target="_blank"
+            rel="noopener noreferrer"
+            className="inline-flex items-center gap-2 rounded-md border border-border/60 px-6 py-3 text-sm font-medium
+                      bg-gradient-to-r from-primary/10 to-purple-500/10
+                      hover:from-primary/20 hover:to-purple-500/20
+                      transition-all duration-300"
+            whileHover={{ scale: 1.05 }}
+            whileTap={{ scale: 0.95 }}
+          >
+            <FaGithub className="text-base" />
+            View More Projects
+          </motion.a>
+        </motion.div>
         </div>
+        
+        
       </div>
     </section>
   );
