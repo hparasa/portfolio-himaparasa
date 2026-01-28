@@ -241,7 +241,7 @@ const Projects = () => {
             </motion.div>
           ))}
           <motion.div
-          className="mt-14 flex justify-center"
+          className="col-span-full mt-14 flex justify-center"
           initial={{ opacity: 0, y: 20 }}
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
