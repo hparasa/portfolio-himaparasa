@@ -1,4 +1,4 @@
-  import himaparasa from "../Assets/himaparasa.jpeg";
+  import himaparasa from "../Assets/himaparasa.jpg";
 
   export const profile = {
     name: "Hima Varshini Parasa",
